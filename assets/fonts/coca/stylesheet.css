@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Coca Zhaend';
+    font-family: 'Coca Perhua';
     src: url('Coke4U.woff2') format('woff2'),
         url('Coke4U.woff') format('woff');
     font-weight: normal;
@@ -8,10 +8,11 @@
 }
 
 @font-face {
-    font-family: 'Pepsi Zhaend';
+    font-family: 'Pepsi Perhua';
     src: url('Pepsi.woff2') format('woff2'),
         url('Pepsi.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
